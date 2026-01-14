@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Aditya"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Aditya Nishad"/>
 </div>
 
 <h1 align="center">Hi 👋! My name is Aditya and I'm a CS Student from India</h1>
