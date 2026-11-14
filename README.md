@@ -50,5 +50,3 @@
 > <a href="#">Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00cba9&height=120&section=footer" alt="footer"/>
-
-This was my old readme for GitHub I want to update it more like professional recruiters eyes attracts it
