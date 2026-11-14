@@ -1,160 +1,54 @@
-
-<!-- ================= HEADER ================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00CBA9&height=150&section=header&text=Aditya%20Nishad&fontSize=40&fontColor=ffffff&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00cba9&height=120&section=header" alt="header"/>
 
 <div align="center">
-
-### Full Stack Developer | AI Engineer | Web3 Builder
-
-Building scalable applications at the intersection of AI, Blockchain, and Software Engineering.
-
-<a href="https://www.linkedin.com/in/aditya-nishad-web3">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://github.com/Aditya-linux">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://x.com/adityanishad987">
-  <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" />
-</a>
-<a href="mailto:adityanishad0402@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=00cba9&width=650&lines=Hello%2C+it's+Aditya+Nishad...;CS+Student+%7C+Algo+Trader+%7C+Market+Analyzer" alt="Typing SVG"/>
+  </a>
 </div>
-
----
-
-## About Me
-
-I'm a Computer Science postgraduate student and developer focused on building real-world software products.
-
-- Full Stack Development and Backend Engineering.
-- AI-powered applications and autonomous agents.
-- Blockchain infrastructure and Web3 applications.
-- Smart Contracts and decentralized payment systems.
-- Open-source development and ecosystem contributions.
-
-I enjoy taking ideas from architecture to deployment and solving practical engineering problems.
-
----
-
-## Tech Stack
-
-### Languages & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,express,fastapi" />
-</p>
-
-### Frontend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,postgres,firebase,redis" />
-</p>
-
-### Blockchain & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=solidity,docker,gcp,linux,git,kubernetes" />
-</p>
-
----
-
-## Featured Projects
-
-### 01. TapPay
-**NFC-Based Crypto Payments | Monad Mainnet**
-
-A contactless crypto payment application designed to make digital asset transfers as simple as tapping two phones.
-
-- NFC phone-to-phone payments.
-- Username-based crypto transfers.
-- Wallet and transaction history.
-- Monad Mainnet and AgoraUSD integration.
-- USDC/USDT support.
-
-[Live Application](https://tapxpay.vercel.app/) | [Demo Video](https://x.com/tapxpay/status/2110035828026323435)
-
-### 02. Recurra
-**Decentralized Subscription Payments | Stellar**
-
-A crypto-native subscription management platform built on Stellar Mainnet using USDC.
-
-- Recurring crypto subscription infrastructure.
-- B2B and B2C subscription management.
-- Blockchain-powered payment workflows.
-
-[Live Application](https://recurra-omega.vercel.app/)
-
-### 03. SolAgent
-**AI-Powered Autonomous Travel Agent | Solana**
-
-An AI-powered travel assistant designed to plan, optimize, and manage trips.
-
-- AI-driven travel planning.
-- Budget-aware itinerary optimization.
-- Solana-powered payment workflows.
-
-[GitHub Repository](https://github.com/Aditya-linux/SolAgent)
-
----
-
-## Open Source & Contributions
-
-I actively contribute to open-source ecosystems, explore blockchain infrastructure, and collaborate with developers.
-
-Areas of interest:
-
-- Backend engineering and API development.
-- Blockchain and smart contract development.
-- Developer tooling and automation.
-- AI agents and infrastructure.
-
-[Explore My Contributions](https://github.com/Aditya-linux?tab=contributions)
-
----
-
-## GitHub Analytics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditya-linux&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-linux&layout=compact&theme=transparent&hide_border=true" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Aditya-linux&theme=transparent&hide_border=true" />
-
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OW5ncDNyNm5yanRxbm81MGJlNnN4cjh4NDE0Nmp0ZXF4bWlyZ3N4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EJMyMO22UxP68/giphy.gif" width="250" alt="Algo Trading GIF"/>
 </div>
 
----
+### 🛠️ Main skills
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,nodejs,react,nextjs,git,docker,gcp,firebase,linux)](https://skillicons.dev)
 
-## Currently Exploring
+### 📚 Studying
+[![Learning](https://skillicons.dev/icons?i=solidity,kubernetes,postgres)](https://skillicons.dev)
 
-- AI Agents and autonomous systems.
-- Scalable backend architectures.
-- Blockchain infrastructure and smart contracts.
-- Distributed systems and cloud engineering.
-- Open-source ecosystem development.
-
----
-
-## Let's Connect
-
-I'm open to interesting engineering opportunities, internships, collaborations, and open-source projects.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/aditya-nishad-web3">LinkedIn</a> •
-<a href="https://x.com/adityanishad987">X</a> •
-<a href="https://github.com/Aditya-linux">GitHub</a> •
-<a href="mailto:adityanishad0402@gmail.com">Email</a>
-
-<br/><br/>
-
-**Building. Learning. Shipping. Contributing.**
-
+### 💻 Projects
+<div>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Project-Nebula-purple?style=for-the-badge&logo=ethereum&logoColor=white" target="_blank" alt="Nebula">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Tool-Sentiment_Analyzer-00cba9?style=for-the-badge&logo=python&logoColor=white" target="_blank" alt="Sentiment Analyzer">
+  </a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00CBA9&height=100&section=footer" />
+<br>
+
+**Nebula:** A Decentralized Digital Evidence Preservation platform using Ethereum Blockchain.
+<br>
+**Sentiment Analyzer:** Real-time Financial News Sentiment Analysis tool for algorithmic trading.
+
+### 📫 Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/aditya-nishad-a07b191b9">
+       <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="45" height="45"/>
+    </a>
+    <a href="https://x.com/AdityaNishad987">
+       <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v2.png" alt="X" width="45" height="45"/>
+    </a>
+    <a href="mailto:adityanishad0402@gmail.com">
+       <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="45" height="45"/>
+    </a>
+</div>
+
+### 💼 Employer?
+> [!IMPORTANT]
+> <a href="#">Download my resume</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00cba9&height=120&section=footer" alt="footer"/>
+
+This was my old readme for GitHub I want to update it more like professional recruiters eyes attracts it
